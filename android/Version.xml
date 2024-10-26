@@ -1,8 +1,0 @@
-﻿<Config URL="http://cdn.kiemthe.site/">
-  <CdnUrl Url="http://cdn.kiemthe.site/" />
-  <Application VerText="KiemTheMobile" VerCode="21" />
-  <Resource VerText="KiemTheMobile" VerCode="128" />
-  <LoadingResourceScreen FileName="Data/Resources/UI/LoadingResources.unity3d" MD5="d74fd7ea64e7e39d0761f3593d8955582" />
-  <Store AppsIosUrl="https://dstud.io.vn" AppsAndroidUrl="https://dstud.io.vn" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
-  <UpdateInfo PushVoiceUrl="http://sdk.kiemthe.site/ChatVoiceService.aspx" GetVoiceUrl="http://sdk.kiemthe.site/GetVoiceChat.aspx" ServerListUrl="http://sdk.kiemthe.site/GetServerListTest.aspx" ServerListUrlBackUp="http://sdk.kiemthe.site/GetServerListTest.aspx" VerifyAccountSDK="http://sdk.kiemthe.site/VerifyAccount.aspx" LoginAccountSDK="http://sdk.kiemthe.site/LoginSDK.aspx" RegisterAccountSDK="http://sdk.kiemthe.site/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
-</Config>
